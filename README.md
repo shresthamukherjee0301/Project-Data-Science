@@ -1,0 +1,2 @@
+This project focuses on Time Series Analysis of Global Temperature Data to study long-term climate patterns, seasonal variations, and global warming trends. Using historical temperature records, the dataset was analyzed, processed, and visualized with Python data-analysis libraries.
+The objective of this project is to understand how temperature has changed over time and to identify hidden patterns using time series techniques.
